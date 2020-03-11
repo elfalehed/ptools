@@ -1,8 +1,10 @@
 # ToKnow 
-ToKnow is a useless tool it won't do you any favor . Go surf the internet to know XD 
+ToKnow is a useless tool it won't do you any favor . Go surf the internet XD 
+
 What's this ?
+
 This tool's idea came to me by an accident and it's just for me to get used to the pascal language since it was the basic language for my CS class 
-I'm willing to work for more tools with pascal to see it's capabilities and since it's an easy language to learn may be i'll do some frameworks or maybe re:update
+I'm willing to code  more tools with pascal to see it's capabilities and since it's an easy language to learn may be i'll do some frameworks or maybe re:update
 ## How can i help ? 
 since the code is on github so it's an open source . You can look out for the code maybe some bugs i did not notice or pay attention for . 
 You can pull some requests and i'll review them and fix them code . 
@@ -21,4 +23,4 @@ in this repository you'll find a lot of pascal tools each one have a specific . 
 here you can find the role of each one : 
 
 - ToKnow.pas : A pascal script can help you with few technical stuff 
-- 
+-
