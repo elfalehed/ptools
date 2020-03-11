@@ -24,3 +24,9 @@ here you can find the role of each one :
 
 - ToKnow.pas : A pascal script can help you with few technical stuff 
 -
+
+## TO-DO'S: 
+- Complete the ToKnow tool
+- Check for better resources,  documentations 
+- Start the dictionary tool 
+
