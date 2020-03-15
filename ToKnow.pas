@@ -1,51 +1,86 @@
-{ Introduction : This tool is gonna be a guide for you to know a lof of stuff about tech! and it's alos my source of entertainment (s7i7a ? LOL) }
-{ TODO: 
-	- Check new functions and the indefined functions if i need them 
-	- Brain storm some new ideas bruh 
-        - Check how to related the pascal code with .txt files 
-	- Check for newbies resources to learn or may be you're own blog it might be a good idea ?
-	- Read documentations about these, watch some tutorials and read some books 	
-  }
-
 program toknow;
-uses crt;
-type 
+uses wincrt;
+type
 tab1 = array[1..1000] of string;
-tab2 = array[1..1000] of integer; 
+tab2 = array[1..1000] of integer;
 var
-	ch,ch1 : string;
-	i,j,k,p : integer;
+        ch,ch1 : string;
+        n,i,j,k,p : integer;
 
-
-Procedure  wduw (ch:string;);
-var
-	x,y : integer;
+procedure md1(n:integer);
+var 
+	i:integer;
 begin
-       val(ch,k,e);
-       if k=1  then
-	     {import a text file realted to the option number 1}
-	       
-       else if k=2 then
-	      {import a text file related to the option number 2}
+		Writeln('You asked for resources to learn programming, right?');
+       { I need to know how to open & link a web page } 
+end;
+
+procedure md2(n:integer);
+	begin 
+		Writeln('You wanna know from where you can start learning programming, right?');
+		end;
+
+procedure md3(n:integer);
+	begin 
+		Writeln('You asked for advices, right?');
+		end;
+
+procedure md4(n:integer);
+	begin 
+		Writeln('You asked for a youtube channels, right?');
+		end;
+
+procedure md5(n:integer);
+	begin 
+		Writeln('You want to see websites that can benefit you, right?');
+		end;
+
+procedure md6(n:integer);
+	begin 
+		Writeln('Wanna know competetive programming, right?');
+		end;
 
 
-end; 
-
-
+procedure md(n:integer);
 begin
-{ i need a good intro cause it needs to attract the user . see some GUI pascal related tutorials } 
-{ Giving the order from the user  }
-	repeat
-	  writeln('donner une ordere: '); readln(ch); 
-	until (ch in ['A'..'Z']);
-       p:=length(ch); 	
-       wduw(ch) 		
+	if n=1 then
+		md1(n)
+	else if n=2 then
+		md2(n)
+	else if n=3 then
+		md3(n)
+	else if n=4 then
+		md4(n)
+	else if n=5 then
+		md5(n)
+	else if n=6 then
+		md6(n)
+	else
+		writeln('The number you gave is not supported'); 
+end;		
+	
+begin
 
 
-
-
-
-
-
-
-end. 
+        Writeln('    ///////// ////////                                      ');
+        Writeln('      ///    //    //                                       ');
+        Writeln('     ///    //    //                                        ');
+        Writeln('    ///    ////////                                         ');
+        Writeln('                                                            ');
+        Writeln('   /// ///  ///       ///   ///////  \\            //       ');
+        Writeln('  /// ///  /// \\    ///   //   //    \\          //        ');
+        Writeln(' ///\\    ///   \\  ///   //   //      \\  //\\  //         ');
+        Writeln('///  \\  ///     \\///   ///////        \\//  \\//          ');
+        Writeln('                                                 ByKMx404             ');
+		Writeln('');
+		Writeln('1- Display resources to learn programming');
+		Writeln('2- From where i can start programming');
+		Writeln('3- Advices');
+		Writeln('4- Youtube channels  you need to check');
+		Writeln('5- Websites can benefit you'); 
+		Writeln('6- Competetive programming');
+		Writeln('');
+        Write('$: '); readln(n);
+		md(n);
+			
+end.

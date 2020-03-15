@@ -1,9 +1,8 @@
-# ToKnow 
-ToKnow is a useless tool it won't do you any favor . Go surf the internet XD 
+# ptools 
 
 What's this ?
 
-This tool's idea came to me by an accident and it's just for me to get used to the pascal language since it was the basic language for my CS class 
+These  tools idea came to me by an accident and it's just for me to get used to the pascal language since it was the basic language for my CS class 
 I'm willing to code  more tools with pascal to see it's capabilities and since it's an easy language to learn may be i'll do some frameworks or maybe re:update
 ## How can i help ? 
 since the code is on github so it's an open source . You can look out for the code maybe some bugs i did not notice or pay attention for . 
@@ -29,4 +28,8 @@ here you can find the role of each one :
 - Complete the ToKnow tool
 - Check for better resources,  documentations 
 - Start the dictionary tool 
+
+## Tools : 
+1- ToKnow.pas : Display resources for the newbies 
+2- ArrayUtil.pas : Set of tools to manipulate arrays 
 
