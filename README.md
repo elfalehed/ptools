@@ -22,14 +22,14 @@ in this repository you'll find a lot of pascal tools each one have a specific . 
 here you can find the role of each one : 
 
 - ToKnow.pas : A pascal script can help you with few technical stuff 
--
+- ArrayUtil : A set of tools to manipulate arrays
 
 ## TO-DO'S: 
 - Complete the ToKnow tool
 - Check for better resources,  documentations 
 - Start the dictionary tool 
 
-## Tools : 
-1- ToKnow.pas : Display resources for the newbies 
-2- ArrayUtil.pas : Set of tools to manipulate arrays 
+
+
+
 
