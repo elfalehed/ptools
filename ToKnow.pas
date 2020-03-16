@@ -6,6 +6,8 @@ tab2 = array[1..1000] of integer;
 var
         ch,ch1 : string;
         n,i,j,k,p : integer;
+	t : tab1; 
+	v : tab2; 
 
 procedure md1(n:integer);
 var 
@@ -40,6 +42,15 @@ procedure md6(n:integer);
 		Writeln('Wanna know competetive programming, right?');
 		end;
 
+procedure md7(n:integer);
+begin 
+	Writeln('You wanna know programming fields?');
+end;
+
+Procedure md8(n:integer);
+begin
+	Writeln('Technical topics might interest you');
+		end;
 
 procedure md(n:integer);
 begin
@@ -56,7 +67,7 @@ begin
 	else if n=6 then
 		md6(n)
 	else
-		writeln('The number you gave is not supported'); 
+		WRITELN('The given number is not supported')
 end;		
 	
 begin
@@ -67,8 +78,8 @@ begin
         Writeln('     ///    //    //                                        ');
         Writeln('    ///    ////////                                         ');
         Writeln('                                                            ');
-        Writeln('   /// ///  ///       ///   ///////  \\            //       ');
-        Writeln('  /// ///  /// \\    ///   //   //    \\          //        ');
+        Writeln('   /// ///  //\\      ///   ///////  \\            //       ');
+        Writeln('  ///////  /// \\    ///   //   //    \\          //        ');
         Writeln(' ///\\    ///   \\  ///   //   //      \\  //\\  //         ');
         Writeln('///  \\  ///     \\///   ///////        \\//  \\//          ');
         Writeln('                                                 ByKMx404             ');
@@ -79,6 +90,8 @@ begin
 		Writeln('4- Youtube channels  you need to check');
 		Writeln('5- Websites can benefit you'); 
 		Writeln('6- Competetive programming');
+		Writeln('7- Programming fields');
+		Writeln('8- Technical topics might interest you');
 		Writeln('');
         Write('$: '); readln(n);
 		md(n);
