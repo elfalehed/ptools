@@ -28,7 +28,7 @@ here you can find the role of each one :
 - Complete the ToKnow tool
 - Check for better resources,  documentations 
 - Start the dictionary tool 
-
+- Importing files, links in pascal
 
 
 
