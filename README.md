@@ -18,18 +18,18 @@ maybe doing some projects/tools won't be that bad after all
 
 
 # The tools : 
-in this repository you'll find a lot of pascal tools each one have a specific . Since it would take a lot from your time to read the code and understand it's role
-here you can find the role of each one : 
+In this repository you'll find a lot of pascal tools each one have a specific role.
+Since it would take a lot of time to read the code and understand it's role
+here you can find the role of each script : 
 
-- ToKnow.pas : A pascal script can help you with few technical stuff 
-- ArrayUtil : A set of tools to manipulate arrays
+- ToKnow.pas : A pascal script can help you with few technical stuff (Under development)
+- ArrayUtil : A set of tools to manipulate arrays (Fixed)
+- QuotesGenerator : A pascal code that generates random quotes (Under development)  
+
 
 ## TO-DO'S: 
 - Complete the ToKnow tool
 - Check for better resources,  documentations 
 - Start the dictionary tool 
-- Importing files, links in pascal
-
-
-
+- Importing files, links in pascal (Do the QuotesGenerator)
 
