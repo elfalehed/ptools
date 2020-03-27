@@ -8,11 +8,11 @@ var
 	i : integer;
 begin
 if random(n) in [1..9[ then
-	Writeln('Talk is cheap, show me the code')
+	Writeln('Talk is cheap, show me the code');
 else if random(n) in [10..29] then
-	Writeln('sssss')
+	Writeln('Time is like a sword. Brake him before it breaK you');
 else if random(n) in [30..45]then
-	Writeln('vddd');
+	Writeln('If you spent a useless minute of your life then you did not understand the purpose of life');
 
 end;
 
