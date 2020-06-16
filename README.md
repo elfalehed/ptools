@@ -7,7 +7,7 @@ I'm willing to code  more tools with pascal to see it's capabilities and since i
 <br />
 ## :gift: How can i help ? 
 since the code is on github so it's an open source . You can look out for the code maybe some bugs i did not notice or pay attention for . 
-You can pull some requests and i'll review them and fix them code . 
+You can pull some requests and i'll review them and fix the code. You can add your own scripts via A pull request as well  
 <br />
 ## :bookmark: What's the point ?
 The hall point of making this tool is just to enjoy coding cause it's really not based on any language what so ever . And counting that i'm using this one a lot
