@@ -3,14 +3,14 @@
 What's this ?
 <br />
 These  tools idea came to me by an accident and it's just for me to get used to the pascal language since it was the basic language for my CS class 
-I'm willing to code  more tools with pascal to see it's capabilities and since it's an easy language to learn may be i'll do some frameworks or maybe re:update
+I'm willing to code  more tools with pascal to see its capabilities and since its an easy language to learn may be i'll do some frameworks or maybe re:update, a new V. ?
 <br />
 ## :gift: How can i help ? 
-since the code is on github so it's an open source . You can look out for the code maybe some bugs i did not notice or pay attention for . 
+since the code is on github so its open sourced. You can look out for the code maybe some bugs i did not notice or pay attention for! 
 You can pull some requests and i'll review them and fix the code. You can add your own scripts via A pull request as well  
 <br />
 ## :bookmark: What's the point ?
-The hall point of making this tool is just to enjoy coding cause it's really not based on any language what so ever . And counting that i'm using this one a lot
+The hall point of making this tool is just to enjoy coding cause its not based on any language what so ever. And counting that i'm using this one a lot
 maybe doing some projects/tools won't be that bad after all 
 ### :computer: Technical details : 
 	- I need more resources for the newbies 
