@@ -1,4 +1,7 @@
 *.swp
+^.swp 
+*.pas.swp 
+
 
 
 
