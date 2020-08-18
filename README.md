@@ -36,4 +36,22 @@ here you can find the role of each script :
 - Check for better resources,  documentations 
 - Start the dictionary tool 
 - Importing files, links in pascal (Do the QuotesGenerator)
+<br />
+<br />
+
+## :notebook: The Repository Layout: <br />
+
+```Shell
+|__  MixedScript/               # Sharing different Scripts in Pascal 
+|    |__ Decrypt.pas/           # Decrypting script 
+|    |__ GG.pas/                # Guessing game
+|    |__ Quotes_Generator.pas/  # Quotes generator 
+|    |__ ToKnow.pas/            # Beginner's resources displayer
+|    |__ ...                    # other you can add 
+|
+|__ ProgrammingExamples/        # Programming Tools Given in Examples 
+|   |__ ArrayUtil.pas/          # Arrays Utilities 
+|  
+
+```
 
